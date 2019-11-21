@@ -12,4 +12,5 @@ class Strings {
     static let urlString = "https://us-central1-tw-exercicio-mobile.cloudfunctions.net/lookup?id=909253"
     static let appName = "appname"
     static let cellIdentifier = "SongsCell"
+    static let alertError = "Não foi possível carregar as informações, tente novamente"
 }
